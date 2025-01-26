@@ -76,7 +76,7 @@ A machine learning project aimed at predicting flight cancellations in U.S. dome
 
 Feel free to reach out to me for collaboration, discussion, or opportunities!
 
-- 📧 **Email**: [oshinika@example.com](mailto:oshinikar@gmail.com)
+- 📧 **Email**: [oshinikar@gmail.com](mailto:oshinikar@gmail.com)
 - 💼 **LinkedIn**: [Oshinika Ranasinghe](https://www.linkedin.com/in/oshinika-ranasinghe/)
 - 💻 **GitHub**: [oshinika](https://github.com/oshinika)
 
